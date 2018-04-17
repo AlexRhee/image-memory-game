@@ -1,0 +1,17 @@
+.navbar {
+  width: 100%;
+  max-width: auto;
+  margin-bottom: 30px;
+  background-color: orange;
+}
+
+.navbar-brand {
+  margin-left: 50px;
+}
+
+#score {
+  display: inline-block;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    margin-right: 50px;
+}

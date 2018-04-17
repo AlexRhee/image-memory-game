@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Bulls",
+    "city": "Chicago",
+    "image": "http://content.sportslogos.net/logos/6/221/full/hj3gmh82w9hffmeh3fjm5h874.png"
+  },
+  {
+    "id": 2,
+    "name": "Knicks",
+    "city": "New York",
+    "image": "http://content.sportslogos.net/logos/6/216/full/2nn48xofg0hms8k326cqdmuis.gif"
+  },
+  {
+    "id": 3,
+    "name": "Warriors",
+    "city": "Golden State",
+    "image": "http://content.sportslogos.net/logos/6/235/full/qhhir6fj8zp30f33s7sfb4yw0.png"
+  },
+  {
+    "id": 4,
+    "name": "76ers",
+    "city": "Philadephia",
+    "image": "http://content.sportslogos.net/logos/6/218/full/7034_philadelphia_76ers-primary-2016.png"
+  },
+  {
+    "id": 5,
+    "name": "Celtics",
+    "city": "Boston",
+    "image": "http://content.sportslogos.net/logos/6/213/full/slhg02hbef3j1ov4lsnwyol5o.png"
+  },
+  {
+    "id": 6,
+    "name": "Wizards",
+    "city": "Washington",
+    "image": "http://content.sportslogos.net/logos/6/219/full/5671_washington_wizards-primary-2016.png"
+  },
+  {
+    "id": 7,
+    "name": "Clippers",
+    "city": "Los Angeles",
+    "image": "http://content.sportslogos.net/logos/6/236/full/bvv028jd1hhr8ee8ii7a0fg4i.png"
+  },
+  {
+    "id": 8,
+    "name": "Lakers",
+    "city": "Los Angeles",
+    "image": "http://content.sportslogos.net/logos/6/237/full/uig7aiht8jnpl1szbi57zzlsh.png"
+  },
+  {
+    "id": 9,
+    "name": "Spurs",
+    "city": "San Antonio",
+    "image": "http://content.sportslogos.net/logos/6/233/full/827.png"
+  },
+  {
+    "id": 10,
+    "name": "SuperSonics",
+    "city": "Seattle",
+    "image": "http://content.sportslogos.net/logos/6/241/full/cxe7hh6lwjtpdhcoyiuc064sp.gif"
+  },
+  {
+    "id": 11,
+    "name": "Grizzlies",
+    "city": "San Antonio",
+    "image": "http://content.sportslogos.net/logos/6/257/full/7hc558rh9vls8j6fam4hly46n.gif"
+  },
+  {
+    "id": 12,
+    "name": "Cavaliers",
+    "city": "Cleveland",
+    "image": "http://content.sportslogos.net/logos/6/222/full/e4701g88mmn7ehz2baynbs6e0.png"
+  }
+]
